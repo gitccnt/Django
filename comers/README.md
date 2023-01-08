@@ -1,0 +1,3 @@
+
+Site of the project
+http://devproject.pythonanywhere.com
